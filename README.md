@@ -4,8 +4,5 @@ I'm researching the impact of El Nino on Japanese temperature anomalies especial
 ### Approach
 From above time series, 11 El Nino years (1965, 1968, 1969, 1976, 1986, 1987, 1991, 2002, 2004, 2009, 2015) were identified. Thereafter, composite monthly maps of surface temperature anomalies over Japan were constructed starting from January and ending in May of the next year. This period covers the initiation of a typical El Nino and continues into the spring following its termination.<br><br>
 To understand, how the time evolution of Japanese surface temperature anomalies during El Nino varies according to geography, we classified the composite time series using the Self-Organizing Map (SOM) algorithm.<br>
-###### Current Status<br>I've finished data analysis until 2004 and now try to collect data of 2009 and 2015 from JMA.<br>
 ### References
-APHRODITE(http://www.chikyu.ac.jp/precip/) is a main data sets in my research and download the following to run the programs.<br>
-https://github.com/sajinh/SysE<br>
-https://github.com/sajinh/SOMPAK_4R
+APHRODITE(http://www.chikyu.ac.jp/precip/) is a main data sets in my research.
